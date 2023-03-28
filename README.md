@@ -1,4 +1,4 @@
-# Currency-Converter
+# Change-Converter
 A currency converter (and name searcher) I created for an Assignment when learning C programming.
 It takes input from a txt file and prints the resultant change of that currency.
 
