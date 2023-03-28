@@ -1,5 +1,6 @@
 # Currency-Converter
 A currency converter (and name searcher) I created for an Assignment when learning C programming.
+It takes input from a txt file and prints the resultant change of that currency.
 
 How to Run
 The program is run in command line and takes an input, in this case coins.txt (e.g main.exe coins.txt).
