@@ -2,7 +2,8 @@
 A currency converter (and name searcher) I created for an Assignment when learning C programming.
 
 How to Run
-The program is run in command line and takes an input, in this case coins.txt (e.g main.exe coins.txt)
+The program is run in command line and takes an input, in this case coins.txt (e.g main.exe coins.txt).
+Coins.txt will contain a name, denomination and amount of currency.
 If coins.txt contains invalid input, or is not found the program will give an appropriate error and close.
 If coins.txt is empty, the program will give an error message, however it will still continue.
 
