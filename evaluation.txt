@@ -1,0 +1,15 @@
+Virus Check
+Program Used: MalwareBytes 4.5.7
+
+main.c - No viruses detected
+math.c - No viruses detected
+math.h - No viruses detected
+searcmenu.c - No viruses Detected
+searchmenu.h - No viruses detected
+struct.h - No viruses detected
+ASS2.drawio (3).png - No viruses detected
+coins.txt - No viruses found
+output.csv - No viruses found
+evaluation.txt - No viruses detected
+ICT159_34521813_Young_Assignment2.pdf - No viruses found
+
